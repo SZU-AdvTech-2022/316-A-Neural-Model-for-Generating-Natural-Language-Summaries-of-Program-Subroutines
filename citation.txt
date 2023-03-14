@@ -1,0 +1,7 @@
+@inproceedings{REPO-317,
+    author = "LeClair, Alexander and Jiang, Siyuan and McMillan, Collin",
+    booktitle = "2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)",
+    pages = "795-806",
+    title = "{A Neural Model for Generating Natural Language Summaries of Program Subroutines}",
+    year = "2019"
+}
